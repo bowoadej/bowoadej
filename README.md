@@ -1,7 +1,7 @@
 # Hi, I'm Bowo Adejuyigbe 👋
 
 ## What I Build
-[Technical PM, Subscriptions & Offers @ Sky UK serving over 40m monthly active users· Building the eligibility layer for agentic commerce]
+[Technical PM, Subscriptions & Offers @ Sky UK serving over 40m monthly active users·]
 
 ## What I'm Working On
 - 🔨 AgenticXCommerce — Exploring the intersection between Agentic AI and Commerce
