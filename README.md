@@ -1,23 +1,14 @@
 # Hi, I'm Bowo Adejuyigbe 👋
 
 ## What I Build
-[Technical PM, Subscriptions & Offers @ Sky UK serving over 40m monthly active users·]
+Technical PM, Subscriptions & Offers @ Sky UK, serving over 40M monthly active users. Working at the intersection of agentic AI and commerce. My current question: if an agent is shopping on your behalf, who defines the right product — business or customer?
 
 ## What I'm Working On
-- 🔨 AgenticXCommerce — Exploring the intersection between Agentic AI and Commerce
-- 📚 Learning Agentic AI
-- 🤝 Looking for collaborators to connect with and share ideas. 
-
-## Featured Projects
-
-| Project | What It Does | Stack |
-|---------|-------------|-------|
-| [Project 1](link) | [One line] | Python, OpenAI |
-| [Project 2](link) | [One line] | Claude API, Notion |
-| [Project 3](link) | [One line] | Zapier, GPT-4 |
+- 📚  Building agentic commerce tools with LangChain/CrewAI
+- 🤝  Looking to connect with PMs/engineers working on subscription/billing infra, payments, or agent-driven commerce.
 
 ## Connect
-- 💼 [LinkedIn](linkedin.com/bowoadej)
+- [LinkedIn](linkedin.com/bowoadejuyigbe)
+- [Substack](substack.com/@bowoadejuyigbe)
 
 ---
-*PM who builds things. Currently exploring agentic commerce.*
